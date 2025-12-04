@@ -1,8 +1,6 @@
-# Econic
+# Welcome to Econic.ai
 
-Open source projects for collaborative intelligence infrastructure.
-
-## Projects
+Open source projects for collaborative infrastructure in the AI/AGI era.
 
 **[Massive Graph](https://github.com/econic-ai/massive-graph)** — Real-time graph database for collaboration across zero-trust boundaries. Delta propagation, zero-copy architecture, cryptographic lineage.
 
