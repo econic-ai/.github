@@ -2,10 +2,7 @@
 
 Open source projects for collaborative infrastructure in the AI/AGI era.
 
-**[Massive Graph](https://github.com/econic-ai/mgraph)** — A delta propagation engine for complex data types.
-
-**[Graphs](https://github.com/econic-ai/graphs)** — 3D graph engine for exploring large-scale data structures. WebGPU rendering with interactive HTML overlays.
-
+**[mgraph](https://github.com/econic-ai/mgraph)** — A delta propagation engine for complex data types.
 **[radix-index](https://github.com/econic-ai/radix-index)** — High-performance, lock-free data structures for real-time indexing and streaming.
 
 ## Focus Areas
