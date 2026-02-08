@@ -2,7 +2,7 @@
 
 Open source projects for collaborative infrastructure in the AI/AGI era.
 
-**[Massive Graph](https://github.com/econic-ai/massive-graph)** — Real-time graph database for collaboration across zero-trust boundaries. Delta propagation, zero-copy architecture, cryptographic lineage.
+**[Massive Graph](https://github.com/econic-ai/mgraph)** — A delta propagation engine for complex data types.
 
 **[Graphs](https://github.com/econic-ai/graphs)** — 3D graph engine for exploring large-scale data structures. WebGPU rendering with interactive HTML overlays.
 
