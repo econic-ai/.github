@@ -3,7 +3,7 @@
 Open source projects for collaborative infrastructure in the AI/AGI era.
 
 **[mgraph](https://github.com/econic-ai/mgraph)** — A delta propagation engine for complex data types.
-**[radix-index](https://github.com/econic-ai/radix-index)** — High-performance, lock-free data structures for real-time indexing and streaming.
+**[radix-index](https://github.com/econic-ai/radix-index-apple-GPU)** — GPU Optimised Radix Index
 
 ## Focus Areas
 
